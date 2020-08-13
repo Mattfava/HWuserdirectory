@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/HWuserdirectory/static/css/main.5f361e03.chunk.css",
+    "main.js": "/HWuserdirectory/static/js/main.e319bcce.chunk.js",
+    "main.js.map": "/HWuserdirectory/static/js/main.e319bcce.chunk.js.map",
+    "runtime-main.js": "/HWuserdirectory/static/js/runtime-main.6e21146a.js",
+    "runtime-main.js.map": "/HWuserdirectory/static/js/runtime-main.6e21146a.js.map",
+    "static/js/2.36989efa.chunk.js": "/HWuserdirectory/static/js/2.36989efa.chunk.js",
+    "static/js/2.36989efa.chunk.js.map": "/HWuserdirectory/static/js/2.36989efa.chunk.js.map",
+    "index.html": "/HWuserdirectory/index.html",
+    "precache-manifest.cf4a3496db5500de19f69f85cee76fd8.js": "/HWuserdirectory/precache-manifest.cf4a3496db5500de19f69f85cee76fd8.js",
+    "service-worker.js": "/HWuserdirectory/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/HWuserdirectory/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.36989efa.chunk.js.LICENSE.txt": "/HWuserdirectory/static/js/2.36989efa.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/HWuserdirectory/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e21146a.js",
+    "static/js/2.36989efa.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.e319bcce.chunk.js"
+  ]
+}
